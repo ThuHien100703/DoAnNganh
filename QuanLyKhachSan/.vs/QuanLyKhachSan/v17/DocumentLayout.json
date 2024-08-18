@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\QuanLyKhachSan\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7C4D320C-2D49-4948-B669-A6CCEBD3FFAD}|QuanLyKhachSan\\QuanLyKhachSan.csproj|d:\\quanlykhachsan\\quanlykhachsan\\views\\shared\\_layoutindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7C4D320C-2D49-4948-B669-A6CCEBD3FFAD}|QuanLyKhachSan\\QuanLyKhachSan.csproj|solutionrelative:quanlykhachsan\\views\\shared\\_layoutindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C4D320C-2D49-4948-B669-A6CCEBD3FFAD}|QuanLyKhachSan\\QuanLyKhachSan.csproj|d:\\quanlykhachsan\\quanlykhachsan\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7C4D320C-2D49-4948-B669-A6CCEBD3FFAD}|QuanLyKhachSan\\QuanLyKhachSan.csproj|solutionrelative:quanlykhachsan\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C4D320C-2D49-4948-B669-A6CCEBD3FFAD}|QuanLyKhachSan\\QuanLyKhachSan.csproj|d:\\quanlykhachsan\\quanlykhachsan\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C4D320C-2D49-4948-B669-A6CCEBD3FFAD}|QuanLyKhachSan\\QuanLyKhachSan.csproj|solutionrelative:quanlykhachsan\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C4D320C-2D49-4948-B669-A6CCEBD3FFAD}|QuanLyKhachSan\\QuanLyKhachSan.csproj|d:\\quanlykhachsan\\quanlykhachsan\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7C4D320C-2D49-4948-B669-A6CCEBD3FFAD}|QuanLyKhachSan\\QuanLyKhachSan.csproj|solutionrelative:quanlykhachsan\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C4D320C-2D49-4948-B669-A6CCEBD3FFAD}|QuanLyKhachSan\\QuanLyKhachSan.csproj|d:\\quanlykhachsan\\quanlykhachsan\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7C4D320C-2D49-4948-B669-A6CCEBD3FFAD}|QuanLyKhachSan\\QuanLyKhachSan.csproj|solutionrelative:quanlykhachsan\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 1283,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_LayoutIndex.cshtml",
+              "DocumentMoniker": "D:\\QuanLyKhachSan\\QuanLyKhachSan\\Views\\Shared\\_LayoutIndex.cshtml",
+              "RelativeDocumentMoniker": "QuanLyKhachSan\\Views\\Shared\\_LayoutIndex.cshtml",
+              "ToolTip": "D:\\QuanLyKhachSan\\QuanLyKhachSan\\Views\\Shared\\_LayoutIndex.cshtml",
+              "RelativeToolTip": "QuanLyKhachSan\\Views\\Shared\\_LayoutIndex.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-18T14:39:42.296Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\QuanLyKhachSan\\QuanLyKhachSan\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "QuanLyKhachSan\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\QuanLyKhachSan\\QuanLyKhachSan\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "QuanLyKhachSan\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-18T14:31:09.414Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "D:\\QuanLyKhachSan\\QuanLyKhachSan\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "QuanLyKhachSan\\Views\\_ViewStart.cshtml",
+              "ToolTip": "D:\\QuanLyKhachSan\\QuanLyKhachSan\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "QuanLyKhachSan\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-18T14:29:56.129Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\QuanLyKhachSan\\QuanLyKhachSan\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "QuanLyKhachSan\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\QuanLyKhachSan\\QuanLyKhachSan\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "QuanLyKhachSan\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-18T14:29:46.408Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\QuanLyKhachSan\\QuanLyKhachSan\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "QuanLyKhachSan\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\QuanLyKhachSan\\QuanLyKhachSan\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "QuanLyKhachSan\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-18T14:28:22.517Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
